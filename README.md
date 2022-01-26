@@ -1,5 +1,7 @@
 # Network Health Check
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6cf6e9cf-e451-4fee-b86f-416f6f8bdf0b.svg?orgId=401166500955)](https://app.soluble.cloud/repos/details/github.com/oznetnerd/network-health-check?orgId=401166500955)  
+
 Concurrently pings and traceroutes a list of hosts. Outputs are put in individual files for easy analysis.
 
 ## Example
